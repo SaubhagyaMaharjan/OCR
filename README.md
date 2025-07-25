@@ -36,7 +36,7 @@ Build OCR from the source and install dependencies:
 
 1. Clone the repository:
 
-   > git clone https://github.com/SaubhagyaMaharjan/OCR
+   > git clone https://github.com/SaubhagyaMaharjan/OCR.git
 
 2. Navigate to the project directory:
 
