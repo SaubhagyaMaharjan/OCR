@@ -39,23 +39,8 @@ Build OCR from the source and install dependencies:
    > git clone https://github.com/SaubhagyaMaharjan/OCR
 
 2. Navigate to the project directory:
+
    > cd OCR
 
-save the model
-fine tune in the previous dataset
-ppt slide for 5 minutes
-start streamlit with proper folder structure
-a folder/notebook with these ipynbs
-UV for package management, similar as pip..
-pre commit hooks
-gitignore
-
-Title: Information Extraction from Invoices
-
-Description: This project aims to develop an automated information extraction system that uses AI and OCR technologies to parse and extract key-value pairs and tabular data from invoices of varying formats and structures.
-
-Dataset: here
-
-The input to the system will be invoice image and the output must be in JSON. The JSON shema is defined in the ground truth of dataset.
-
-Develop a clean and simple UI with streamlit to show the system demo.
+3. Run the code:
+   > streamlit run app.py
